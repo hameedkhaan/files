@@ -1,2 +1,2 @@
-# Mysql stored PROCEDURE crud example
+# Mysql STORED-PROCEDURE crud example
 Files
